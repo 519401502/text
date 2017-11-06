@@ -7,10 +7,10 @@ import android.util.Log
  */
 class Text {
 
-
     fun text(arg: String, argss: String): String{
         var s = "测试"
         Log.d("~", "测试类 第二次 text分支添加")
         return s
     }
+
 }
